@@ -1,7 +1,7 @@
 # Site
 title:              Utkarsh Tiwari
 bio:                'My personal webpage'
-description:        "<add description about yourself here>"
+description:        "I graduated from BITS Pilani K. K. Birla Goa campus with dual degrees of M.Sc. (Hons.) in Economics and B.E. (Hons.) in Chemical Engineering. I am currently working in JP Morgan Chase & Co.,India , in the Robotics Process Automation team. I am interested in investment banking, financial modelling and stock pitches. I like to analyse ideas that would help further breakdown and understand the client's problems."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -30,27 +30,27 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
+google:
+  plus:            +UtkarshTiwari1
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              utkarshtiwari1504@gmail.com
+twitter:            Utkarsh0s
+facebook:           Utkarsh1504
+github-url:         https://utkarsh-tiwari.github.io/
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           utkarshtiwari1504
 #xing:              username
-instagram:          username
+#instagram:         username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
